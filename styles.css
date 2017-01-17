@@ -244,9 +244,8 @@ a.social:hover {
 
 @media screen and (min-width: 720px) {
   
-  
- /* TWEENER - IE 10 */
-.flex {      
+  .flex { 
+ /* TWEENER - IE 10 */      
       display: flex; 
       max-width: 1200px;
       justify-content: space-around;
