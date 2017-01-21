@@ -212,16 +212,6 @@ a.social {
   transition: all .5s
 }
 
-
-a.twitter {
-  background-image: url(img/twi1.png);
-  background-repeat: no-repeat;
-}
-a.facebook {
-  background-image: url(img/face1.png);
-  background-repeat: no-repeat;
-}
-
 a.github {
   background-image: url(img/git.png);
   background-repeat: no-repeat;
